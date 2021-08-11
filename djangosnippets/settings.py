@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django_extensions',
     'django_bootstrap5',
     'pygments_renderer',
+    'accounts.apps.AccountsConfig',
 ]
 
 MIDDLEWARE = [
